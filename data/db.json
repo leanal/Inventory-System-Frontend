@@ -1,0 +1,171 @@
+{
+    "products": [
+        {
+            "product_id": 32,
+            "product_sku": "",
+            "product_brand": "KS",
+            "product_name": "cindi tri dome cosmetic - pink multi",
+            "product_description": "",
+            "product_quantity_in_stock": 1,
+            "product_weight_in_oz": "10.00",
+            "supplier_id": 36,
+            "created_at": "2021-09-24T19:32:25.326Z",
+            "updated_at": "2021-09-24T19:32:25.326Z"
+        },
+        {
+            "product_id": 33,
+            "product_sku": "",
+            "product_brand": "KS",
+            "product_name": "hollie spade clover geo sm slim bifold - multi",
+            "product_description": "",
+            "product_quantity_in_stock": 1,
+            "product_weight_in_oz": "3.00",
+            "supplier_id": 36,
+            "created_at": "2021-09-24T19:32:25.326Z",
+            "updated_at": "2021-09-24T19:32:25.326Z"
+        },
+        {
+            "product_id": 34,
+            "product_sku": "",
+            "product_brand": "KS",
+            "product_name": "hollie spade clover geo emboss sm slim card - ltfrznlilc",
+            "product_description": "no gr",
+            "product_quantity_in_stock": 2,
+            "product_weight_in_oz": "3.00",
+            "supplier_id": 37,
+            "created_at": "2021-09-24T19:32:25.326Z",
+            "updated_at": "2021-09-24T19:32:25.326Z"
+        },
+        {
+            "product_id": 35,
+            "product_sku": "",
+            "product_brand": "MK",
+            "product_name": "Jst large doublezip wristlet - brown signature",
+            "product_description": null,
+            "product_quantity_in_stock": 1,
+            "product_weight_in_oz": "9.00",
+            "supplier_id": 40,
+            "created_at": "2021-09-24T19:32:25.326Z",
+            "updated_at": "2021-09-24T19:32:25.326Z"
+        },
+        {
+            "product_id": 31,
+            "product_sku": "",
+            "product_brand": "KS",
+            "product_name": "bixby pl neda - blk",
+            "product_description": null,
+            "product_quantity_in_stock": 1,
+            "product_weight_in_oz": "7.00",
+            "supplier_id": 36,
+            "created_at": "2021-09-24T19:32:25.326Z",
+            "updated_at": "2021-09-24T19:32:25.326Z"
+        },
+        {
+            "product_id": 36,
+            "product_sku": null,
+            "product_brand": "KS",
+            "product_name": "chester street dessi (crossbody) - wrmbg/ blk",
+            "product_description": null,
+            "product_quantity_in_stock": 1,
+            "product_weight_in_oz": "20.00",
+            "supplier_id": 37,
+            "created_at": "2021-09-25T01:02:13.477Z",
+            "updated_at": "2021-09-25T01:02:13.477Z"
+        }
+    ],
+    "suppliers": [
+        {
+            "supplier_id": 36,
+            "supplier_name": "KS North Outlet",
+            "supplier_notes": "",
+            "created_at": "2021-09-24T19:31:18.318Z",
+            "updated_at": "2021-09-24T19:31:18.318Z"
+        },
+        {
+            "supplier_id": 37,
+            "supplier_name": "KS South Outlet",
+            "supplier_notes": "",
+            "created_at": "2021-09-24T19:31:18.318Z",
+            "updated_at": "2021-09-24T19:31:18.318Z"
+        },
+        {
+            "supplier_id": 38,
+            "supplier_name": "Coach North Outlet",
+            "supplier_notes": "",
+            "created_at": "2021-09-24T19:31:18.318Z",
+            "updated_at": "2021-09-24T19:31:18.318Z"
+        },
+        {
+            "supplier_id": 39,
+            "supplier_name": "Coach South Outlet",
+            "supplier_notes": "",
+            "created_at": "2021-09-24T19:31:18.318Z",
+            "updated_at": "2021-09-24T19:31:18.318Z"
+        },
+        {
+            "supplier_id": 40,
+            "supplier_name": "MK North Outlet",
+            "supplier_notes": "",
+            "created_at": "2021-09-24T19:31:18.318Z",
+            "updated_at": "2021-09-24T19:31:18.318Z"
+        },
+        {
+            "supplier_id": 41,
+            "supplier_name": "MK South Outlet",
+            "supplier_notes": "",
+            "created_at": "2021-09-24T19:31:18.318Z",
+            "updated_at": "2021-09-24T19:31:18.318Z"
+        },
+        {
+            "supplier_id": 42,
+            "supplier_name": "TB North Outlet",
+            "supplier_notes": "",
+            "created_at": "2021-09-24T19:31:18.318Z",
+            "updated_at": "2021-09-24T19:31:18.318Z"
+        },
+        {
+            "supplier_id": 44,
+            "supplier_name": "Kylie Skin",
+            "supplier_notes": null,
+            "created_at": "2021-09-24T21:56:02.013Z",
+            "updated_at": "2021-09-24T21:56:02.013Z"
+        }
+    ],
+    "categories":  [
+        {
+            "category_id": 6,
+            "category_name": "Wallets",
+            "category_description": "",
+            "created_at": "2021-09-24T19:32:48.986Z",
+            "updated_at": "2021-09-24T19:32:48.986Z"
+        },
+        {
+            "category_id": 7,
+            "category_name": "Wristlets",
+            "category_description": "",
+            "created_at": "2021-09-24T19:32:48.986Z",
+            "updated_at": "2021-09-24T19:32:48.986Z"
+        },
+        {
+            "category_id": 8,
+            "category_name": "Backpacks",
+            "category_description": "",
+            "created_at": "2021-09-24T19:32:48.986Z",
+            "updated_at": "2021-09-24T19:32:48.986Z"
+        },
+        {
+            "category_id": 9,
+            "category_name": "Belt Bags & Fanny Packs",
+            "category_description": "",
+            "created_at": "2021-09-24T19:32:48.986Z",
+            "updated_at": "2021-09-24T19:32:48.986Z"
+        },
+        {
+            "category_id": 10,
+            "category_name": "Convertible Bags",
+            "category_description": "",
+            "created_at": "2021-09-24T19:32:48.986Z",
+            "updated_at": "2021-09-24T19:32:48.986Z"
+        }
+    ]
+}
